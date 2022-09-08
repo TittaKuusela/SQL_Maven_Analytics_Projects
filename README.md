@@ -1,6 +1,6 @@
-# SQL_Maven_Analytics_Projects
+# Maven Analytics: MySQL Data Analysis
 
-This GitHub repository contains the schemas, questions ans solutions to Maven Analytics: MySQL Data Analysis.
+This GitHub repository contains the schemas, questions ans solutions to Maven Analytics: MySQL Data Analysis course.
 
 The coursework included:
 - intro to the SQL language
